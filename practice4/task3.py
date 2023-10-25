@@ -3,13 +3,9 @@
 
 from datetime import datetime
 
-card = 0  # начальная сумма
-oper_num = 0  # считаем операции
 percent_withdraw = 0.015
 percent_add = 0.03
 rich_tax = 0.1
-
-
 
 
 def check_sum():
